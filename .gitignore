@@ -1,0 +1,7 @@
+data/*
+
+*.pkl
+
+#images
+*.png
+*.jpeg
